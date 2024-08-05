@@ -1,6 +1,6 @@
 modelscope==1.9.5
 transformers==4.39.3
-streamlit==1.36.0
+streamlit==1.27.0
 sentencepiece==0.2.0
 accelerate==0.24.1
 huggingface-hub
