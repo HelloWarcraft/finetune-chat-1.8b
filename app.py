@@ -21,7 +21,7 @@ st.caption("🚀 A streamlit chatbot powered by InternLM2 QLora")
 
 # 定义模型路径
 
-model_id = 'livehouse/internlm2-1_8b-xtuner' #此处已经修改为我的modelscope的ID和repoID了
+model_id = 'livehouse/finetune-chat-1_8b' #此处已经修改为我的modelscope的ID和repoID了
 
 mode_name_or_path = snapshot_download(model_id, revision='master')
 
